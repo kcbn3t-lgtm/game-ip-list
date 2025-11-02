@@ -1,0 +1,11 @@
+13.248.102.0/24;Mobile Legends
+157.240.0.0/16;Free Fire
+45.40.220.0/24;Valorant
+18.194.0.0/15;Call of Duty Mobile
+43.249.72.0/22;Genshin Impact
+20.189.107.0/24;Apex Legends
+52.95.245.0/24;Fortnite
+150.109.0.0/16;Arena of Valor (AOV)
+104.160.131.0/24;League of Legends
+34.117.122.0/24;Roblox
+35.240.160.0/20;CODM Asia
